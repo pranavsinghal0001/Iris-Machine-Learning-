@@ -31,8 +31,5 @@ Modeling: training machine learning classifiers (e.g., logistic regression, deci
 Contributions:-
 Contributions to improve this analysis or add new features are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
 
-License:-
-This project is licensed under the MIT License.
-
 Contact:-
 For questions or feedback, you can reach out to Email: pranavsinghal0001@gmail.com
